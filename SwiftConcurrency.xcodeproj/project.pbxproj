@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0603BC4D2BF5324D004AFD55 /* SendableBtcmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0603BC4C2BF5324D004AFD55 /* SendableBtcmp.swift */; };
 		060EB1E72BCAD7C900218521 /* AsyncAwait.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060EB1E62BCAD7C900218521 /* AsyncAwait.swift */; };
 		060EB1E92BCADF1E00218521 /* TaskBtcmp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 060EB1E82BCADF1E00218521 /* TaskBtcmp.swift */; };
 		06506CCA2BD410AA005C9CD4 /* AsyncLet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06506CC92BD410AA005C9CD4 /* AsyncLet.swift */; };
@@ -21,6 +22,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0603BC4C2BF5324D004AFD55 /* SendableBtcmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendableBtcmp.swift; sourceTree = "<group>"; };
 		060EB1E62BCAD7C900218521 /* AsyncAwait.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncAwait.swift; sourceTree = "<group>"; };
 		060EB1E82BCADF1E00218521 /* TaskBtcmp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskBtcmp.swift; sourceTree = "<group>"; };
 		06506CC92BD410AA005C9CD4 /* AsyncLet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AsyncLet.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				068657642BC308F600517C58 /* DownloadImageAsync.swift */,
 				060EB1E82BCADF1E00218521 /* TaskBtcmp.swift */,
 				06965D7F2BF2B4D800A6700F /* GlobalActorBootcamp.swift */,
+				0603BC4C2BF5324D004AFD55 /* SendableBtcmp.swift */,
 				06506CC92BD410AA005C9CD4 /* AsyncLet.swift */,
 				06506CCB2BD41A12005C9CD4 /* TaskGroup.swift */,
 				06B6DCD72BC1692700835988 /* Assets.xcassets */,
@@ -160,6 +163,7 @@
 			files = (
 				068657652BC308F600517C58 /* DownloadImageAsync.swift in Sources */,
 				060EB1E92BCADF1E00218521 /* TaskBtcmp.swift in Sources */,
+				0603BC4D2BF5324D004AFD55 /* SendableBtcmp.swift in Sources */,
 				06506CCC2BD41A12005C9CD4 /* TaskGroup.swift in Sources */,
 				06506CCA2BD410AA005C9CD4 /* AsyncLet.swift in Sources */,
 				06B6DCE22BC1694E00835988 /* DoCatchTryThrows.swift in Sources */,
